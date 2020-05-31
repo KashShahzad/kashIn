@@ -34,5 +34,10 @@
     "prettier": "^1.19.1",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "A personal website of Kashif Shahzad",
+  "main": "index.js",
+  "repository": "https://github.com/KashShahzad/kashInnov",
+  "author": "Kashif Shahzad <shahzad@kashinnov.com>",
+  "license": "MIT"
 }
